@@ -12,6 +12,6 @@
   "author": "Jean Puga",
   "license": "ISC",
   "dependencies": {
-    "retypejs": "0.0.2"
+    "retypejs": "0.0.3"
   }
 }
