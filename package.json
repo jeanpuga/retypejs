@@ -2,7 +2,7 @@
   "name": "retypejs",
   "version": "0.0.1",
   "description": "Middle to parse through model strings for types.",
-  "main": "index.js",
+  "readmeFilename": "README.md" ,
   "scripts": {
     "test": "jest"
   },
@@ -11,6 +11,14 @@
     "url": "git+https://github.com/jeanpuga/retypejs.git"
   },
   "keywords": [
+    "parse",
+    "parseInt",
+    "parseFloat",
+    "type",
+    "cast",
+    "convert"
+  ],
+  "tags": [
     "parse",
     "parseInt",
     "parseFloat",
@@ -34,5 +42,6 @@
   },
   "jest": {
     "verbose": true
-  }
+  },
+  "main": "index.js",
 }
