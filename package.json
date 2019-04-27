@@ -43,5 +43,5 @@
   "jest": {
     "verbose": true
   },
-  "main": "index.js",
+  "main": "index.js"
 }
