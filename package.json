@@ -1,8 +1,8 @@
 {
   "name": "retypejs",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Middle to parse through model strings for types.",
-  "readmeFilename": "README.md" ,
+  "readmeFilename": "README.md",
   "scripts": {
     "test": "jest"
   },
@@ -21,7 +21,6 @@
     "convert",
     "remove-json",
     "remove-json-tuple"
-    
   ],
   "tags": [
     "parse",

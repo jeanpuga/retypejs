@@ -10,8 +10,8 @@
     "example"
   ],
   "author": "Jean Puga",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
-    "retypejs": "0.0.3"
+    "retypejs": "^0.0.3"
   }
 }
