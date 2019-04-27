@@ -18,11 +18,7 @@
     "cast",
     "convert"
   ],
-  "author": {
-    "name": "Jean Puga",
-    "email": "jean.m.puga@gmail.com",
-    "homepage": "http://www.zixtools.com.br"
-  },
+  "author": "Jean Puga",
   "coauthor": "Kaio Silveira",
   "license": "MIT",
   "bugs": {
