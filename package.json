@@ -19,6 +19,7 @@
     "convert"
   ],
   "author": "Jean Puga",
+  "coauthor": "Kaio Silveira",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jeanpuga/retypejs/issues"
