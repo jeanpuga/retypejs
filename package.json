@@ -1,6 +1,6 @@
 {
   "name": "retypejs",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Middle to parse through model strings for types.",
   "readmeFilename": "README.md",
   "scripts": {
