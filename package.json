@@ -47,14 +47,14 @@
   },
   "homepage": "https://github.com/jeanpuga/retypejs#readme",
   "devDependencies": {
-    "jest": "^24.7.1",
-    "jest-cli": "^24.8.0"
+    "jest": "^26.3.0",
+    "jest-cli": "^26.3.0"
   },
   "jest": {
     "verbose": true
   },
   "main": "index.js",
   "dependencies": {
-    "jest-haste-map": "^24.8.0"
+    "jest-haste-map": "^26.3.0"
   }
 }
